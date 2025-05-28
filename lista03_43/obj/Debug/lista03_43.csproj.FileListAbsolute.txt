@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\lista03_01\lista03_43\bin\Debug\lista03_43.exe.config
+C:\Users\Dell\source\repos\lista03_01\lista03_43\bin\Debug\lista03_43.exe
+C:\Users\Dell\source\repos\lista03_01\lista03_43\bin\Debug\lista03_43.pdb
+C:\Users\Dell\source\repos\lista03_01\lista03_43\obj\Debug\lista03_43.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\lista03_01\lista03_43\obj\Debug\lista03_43.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\lista03_01\lista03_43\obj\Debug\lista03_43.exe
+C:\Users\Dell\source\repos\lista03_01\lista03_43\obj\Debug\lista03_43.pdb
